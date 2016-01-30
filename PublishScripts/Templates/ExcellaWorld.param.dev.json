@@ -1,0 +1,32 @@
+{
+  "siteName": {
+    "value": "ExcellaWorld"
+  },
+  "hostingPlanName": {
+    "value": "ServicePlan1"
+  },
+  "siteLocation": {
+    "value": "East US"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "serverName": {
+    "value": "excellaworld"
+  },
+  "serverLocation": {
+    "value": "East US"
+  },
+  "administratorLogin": {
+    "value": "seafarer007"
+  },
+  "administratorLoginPassword": {
+    "value": "Sagat99!"
+  },
+  "databaseName": {
+    "value": "ExcellaWorld_db"
+  }
+}
